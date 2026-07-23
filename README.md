@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sougata
 -  Trying to find and ride waves in the field of oceanography! 🏄‍♂️ 
-- 🌱 Currently a PhD student at IMAS & CSIRO, University of Tasmania
+- 🌱 Currently a PhD student at IMAS, University of Tasmania & CSIRO
 
 <!---
 sb4233/sb4233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
